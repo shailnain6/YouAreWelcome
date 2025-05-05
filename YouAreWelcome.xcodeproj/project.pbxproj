@@ -11,6 +11,7 @@
 		AAE295862DC846FD005A5BE9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE295852DC846FD005A5BE9 /* ContentView.swift */; };
 		AAE295882DC84700005A5BE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAE295872DC84700005A5BE9 /* Assets.xcassets */; };
 		AAE2958B2DC84700005A5BE9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAE2958A2DC84700005A5BE9 /* Preview Assets.xcassets */; };
+		AAE295922DC84CE8005A5BE9 /* FootBallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE295912DC84CE8005A5BE9 /* FootBallView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AAE295852DC846FD005A5BE9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AAE295872DC84700005A5BE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAE2958A2DC84700005A5BE9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AAE295912DC84CE8005A5BE9 /* FootBallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FootBallView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AAE295852DC846FD005A5BE9 /* ContentView.swift */,
 				AAE295872DC84700005A5BE9 /* Assets.xcassets */,
 				AAE295892DC84700005A5BE9 /* Preview Content */,
+				AAE295912DC84CE8005A5BE9 /* FootBallView.swift */,
 			);
 			path = YouAreWelcome;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAE295922DC84CE8005A5BE9 /* FootBallView.swift in Sources */,
 				AAE295862DC846FD005A5BE9 /* ContentView.swift in Sources */,
 				AAE295842DC846FD005A5BE9 /* YouAreWelcomeApp.swift in Sources */,
 			);
