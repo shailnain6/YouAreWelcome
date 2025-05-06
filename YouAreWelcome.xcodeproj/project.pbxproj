@@ -54,10 +54,10 @@
 			isa = PBXGroup;
 			children = (
 				AAE295832DC846FD005A5BE9 /* YouAreWelcomeApp.swift */,
+				AAE295912DC84CE8005A5BE9 /* FootBallView.swift */,
 				AAE295852DC846FD005A5BE9 /* ContentView.swift */,
 				AAE295872DC84700005A5BE9 /* Assets.xcassets */,
 				AAE295892DC84700005A5BE9 /* Preview Content */,
-				AAE295912DC84CE8005A5BE9 /* FootBallView.swift */,
 			);
 			path = YouAreWelcome;
 			sourceTree = "<group>";

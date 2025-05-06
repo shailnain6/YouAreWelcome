@@ -11,7 +11,7 @@ import SwiftUI
 struct YouAreWelcomeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FootBallView()
         }
     }
 }
